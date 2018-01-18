@@ -594,8 +594,8 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;	
-	min-height: 350px;
-	max-height: 350px;
+	min-height: 150px;
+	max-height: 250px;
 	z-index: 1;
 	text-align: center;
 	display: inline-block;
@@ -995,12 +995,12 @@ a {
 .top-header {
 	border-bottom: 1px solid #e5e5e5;
     border-top: 3px solid #ea2a31;   
-    padding: 19px 0 19px;    
+    padding: 0px 0 0px;    
 }
 
 /* - Social  */
 .top-header .social {
-	margin: 15px 0 15px;
+	margin: 10px 0 10px;
 }
 .top-header .social ul {
 	padding-left: 0;	
@@ -1095,6 +1095,9 @@ a {
 	border-top: none;
 	max-width: 1170px;
 }
+.tblogo{
+  float: left;
+}
 
 /* - User */
 .menu-block a.user {
@@ -1135,6 +1138,7 @@ a {
 	text-align: center;
 	border-left: 1px solid #e5e5e5;
 	border-right: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
 	position: relative;
 }
 .menu-block.navbar-fixed-top .menu-search {

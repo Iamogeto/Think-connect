@@ -1,5 +1,5 @@
 /*
-	Project Name : Mitri Events
+	Project Name : Think Business Events
 	
 	-- Google Map
 	-- Slider Content

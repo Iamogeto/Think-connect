@@ -1,5 +1,5 @@
 /*
-	Theme Name: Mitri Events
+	Theme Name: Think Business Events
 	Created : 
 	Updated : 
 	Version: 1.0
@@ -2028,7 +2028,7 @@
 	top: 0;
 	bottom: 0;
 	display: inline-block;
-	background-color: rgba(254,202,22,0.9);
+	background-color: rgba(244,228,48,0.99);
 }
 .widget_event::after {
 	position: absolute;
@@ -2038,7 +2038,7 @@
 	top: 0;
 	bottom: 0;
 	display: inline-block;
-	background-color: rgba(254,202,22,0.75);
+	background-color: rgba(234,42,49,0.78);
 	margin: 10px;
 }
 .widget_event .event-block {
